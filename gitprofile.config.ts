@@ -241,10 +241,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/Im-HarshTiwari/portfolio"
+      class="text-primary" href="https://github.com/imharshtiwari/portfolio"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Git Profile</a> and ❤️`,
 
   enablePWA: true,
 };
